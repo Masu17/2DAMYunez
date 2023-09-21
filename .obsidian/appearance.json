@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#00f6fa",
+  "theme": "obsidian",
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "DejaVu Serif",
+  "textFontFamily": "FreeSans"
 }

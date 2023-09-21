@@ -1,1 +1,10 @@
-{}
+{
+  "theme-picker:open-theme-picker": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "-"
+    }
+  ]
+}

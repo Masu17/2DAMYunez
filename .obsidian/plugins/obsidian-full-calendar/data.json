@@ -1,0 +1,26 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#00ffe1",
+      "directory": "ZCALENDARS/ENTREGAS"
+    },
+    {
+      "type": "local",
+      "color": "#eeff00",
+      "directory": "ZCALENDARS/EXPANSION"
+    },
+    {
+      "type": "local",
+      "color": "#04ff00",
+      "directory": "ZCALENDARS/DIARIO"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 1,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
