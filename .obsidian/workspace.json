@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c871b0d7d23ea4c0",
+        "id": "0a2d5117e47b7da8",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd9b5894f08325d",
+            "id": "39687b0dcfb5df2a",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "e458fa2a3f1ef112",
+            "id": "e7fee33df6599b2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSG/Acronimos SSG.md",
+                "file": "DAD/Actividad 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad4bf13ad0ef08f8",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSG/Acronimos SSG.md",
+                "file": "DAD/Actividad 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSG/Acronimos SSG.md",
+                "file": "DAD/Actividad 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSG/Acronimos SSG.md"
+                "file": "DAD/Actividad 3.md"
               }
             }
           },
@@ -160,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8d50ffd2c823ee85",
+  "active": "a88822a4204f278b",
   "lastOpenFiles": [
+    "EMR/UT1/Actividades UT1.md",
+    "EMR/UT1",
+    "ZCALENDARS/ENTREGAS/2023-09-28 (EMR) - Actividades de empresas.md",
+    "PVG/Apuntes sucios PGV T1.md",
     "SSG/Acronimos SSG.md",
     "SSG/UD1_Aula_SSG_23_SYH/Introdución EMR'S.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918162127.png",
@@ -191,11 +195,9 @@
     "ZCALENDARS/DIARIO",
     "ZCALENDARS/EXPANSION",
     "ZCALENDARS/ENTREGAS",
-    "PVG/Apuntes sucios PGV T1.md",
     "DAD/Actividad 3.md",
     "ZCALENDARS/ENTREGAS/2023-09-26 (PVG) - AC Procesadores y procesos.md",
     "ZCALENDARS/ENTREGAS/2023-09-25 (SSG) - AC Contenido de la UT1.md",
-    "Untitled.md",
     "ZCALENDARS",
     "2023-W38.md",
     "2023-09-21 (SSG) - Entrega paneles de control.md",
@@ -216,7 +218,6 @@
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918164353.png",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918164241.png",
     "EMR",
-    "DAD",
-    "PGL"
+    "DAD"
   ]
 }
