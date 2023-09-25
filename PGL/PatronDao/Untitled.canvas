@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a16a5ac8e8eea1b6","x":-500,"y":-180,"width":970,"height":220,"type":"group","label":"Patron DAO"},
+		{"id":"079325f8d4589d98","type":"text","text":"Business Object","x":-480,"y":-160,"width":250,"height":60},
+		{"id":"d4bcf7cc26dd6379","type":"text","text":"Data Access Object","x":-140,"y":-160,"width":250,"height":60},
+		{"id":"9e96c44f977106cd","type":"text","text":"Data Source","x":200,"y":-160,"width":250,"height":60},
+		{"id":"e0524ea86368ad1b","type":"text","text":"Data Transfer Object","x":-140,"y":-40,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"75d2953ba396da6f","fromNode":"079325f8d4589d98","fromSide":"right","toNode":"d4bcf7cc26dd6379","toSide":"left"},
+		{"id":"82b7023d05f08c89","fromNode":"079325f8d4589d98","fromSide":"bottom","toNode":"e0524ea86368ad1b","toSide":"left"},
+		{"id":"c7f8a36a0f7b34c2","fromNode":"d4bcf7cc26dd6379","fromSide":"right","toNode":"9e96c44f977106cd","toSide":"left"},
+		{"id":"5afe87c826f8de4f","fromNode":"d4bcf7cc26dd6379","fromSide":"bottom","toNode":"e0524ea86368ad1b","toSide":"top"}
+	]
+}

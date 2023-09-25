@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2d5117e47b7da8",
+        "id": "56af9cf75faffb08",
         "type": "tabs",
         "children": [
           {
-            "id": "39687b0dcfb5df2a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e7fee33df6599b2c",
+            "id": "33cdcef6b41224e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAD/Actividad 3.md",
+                "file": "PGL/PatronDao/PATRON DAO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAD/Actividad 3.md",
+                "file": "PGL/PatronDao/PATRON DAO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAD/Actividad 3.md",
+                "file": "PGL/PatronDao/PATRON DAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAD/Actividad 3.md"
+                "file": "PGL/PatronDao/PATRON DAO.md"
               }
             }
           },
@@ -175,49 +166,55 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a88822a4204f278b",
+  "active": "33cdcef6b41224e1",
   "lastOpenFiles": [
+    "Pasted image 20230925011834.png",
+    "PGL/PatronDao/Pasted image 20230925011134.png",
+    "PGL/PatronDao/Untitled.canvas",
+    "PGL/PatronDao",
+    "PGL/PatronDao/PATRON DAO.md",
+    "Untitled 1.canvas",
+    "DAD/Actividad 3.md",
+    "PVG/Apuntes sucios PGV T1.md",
+    "ZCALENDARS/DIARIO/2023-09-25 (DIA) - Enviar e-mail Alejandro.md",
+    "ZCALENDARS/DIARIO/2023-09-24 (DIA) - Trabajar en DAO.md",
+    "DAD/Imagenes/Pasted image 20230922174837.png",
+    "DAD/Actividad 2.md",
+    "DAD/Imagenes",
+    "DAD/Imagenes/Pasted image 20230922175608.png",
+    "DAD/Actividad 1.md",
+    "ZCALENDARS/ENTREGAS/2023-09-29 (DAD) - Actividad Interfaces.md",
+    "EMR/Idea de empresas.md",
+    "ZCALENDARS/ENTREGAS/2023-09-29 (AED) - Ejercicios de clase.md",
+    "ZCALENDARS/DIARIO/2023-09-22 (DIA) - Terminar entrega Foro Interfaces.md",
+    "ZCALENDARS/DIARIO/2023-09-22 (DIA) - Terminar tarea 2 SSG..md",
     "EMR/UT1/Actividades UT1.md",
     "EMR/UT1",
     "ZCALENDARS/ENTREGAS/2023-09-28 (EMR) - Actividades de empresas.md",
-    "PVG/Apuntes sucios PGV T1.md",
     "SSG/Acronimos SSG.md",
     "SSG/UD1_Aula_SSG_23_SYH/Introdución EMR'S.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918162127.png",
-    "ZCALENDARS/DIARIO/2023-09-21 (DIA)-Terminar App.md",
-    "ZCALENDARS/DIARIO/2023-09-21 (DIA)-Practica procesadores.md",
+    "ZCALENDARS/DIARIO/2023-09-25 (DIA)-Terminar App.md",
+    "ZCALENDARS/DIARIO/2023-09-24 (DIA)-Practica procesadores.md",
     "ZCALENDARS/DIARIO/2023-09-21 (DIA)-Practica Centros de Mando.md",
-    "ZCALENDARS/EXPANSION/2023-09-23 2023-09-26 (EXP) - Ex DAO y Services.md",
+    "ZCALENDARS/EXPANSION/2023-09-23 (EXP) - Ex DAO y Services.md",
     "ZCALENDARS/EXPANSION/2023-09-26 (EXP) - Ex DAO y Services.md",
-    "ZCALENDARS/EXPANSION/2023-09-22 (EXP) - Ampliar contenidos PGV.md",
-    "ZCALENDARS/EXPANSION/2023-09-22 (EXP) - Ampliar contenidos PGV.md",
+    "ZCALENDARS/EXPANSION/2023-09-27 (EXP) - Ampliar contenidos PGV.md",
+    "ZCALENDARS/EXPANSION/2023-09-27 (EXP) - Ampliar contenidos PGV.md",
     "ZCALENDARS/ENTREGAS/2023-09-21 (SSG) - AC Panel de control.md",
     "ZCALENDARS/DIARIO",
     "ZCALENDARS/EXPANSION",
     "ZCALENDARS/ENTREGAS",
-    "DAD/Actividad 3.md",
-    "ZCALENDARS/ENTREGAS/2023-09-26 (PVG) - AC Procesadores y procesos.md",
-    "ZCALENDARS/ENTREGAS/2023-09-25 (SSG) - AC Contenido de la UT1.md",
+    "ZCALENDARS/ENTREGAS/2023-09-25 (PVG) - AC Procesadores y procesos.md",
     "ZCALENDARS",
-    "2023-W38.md",
-    "2023-09-21 (SSG) - Entrega paneles de control.md",
-    "2023-09-20.md",
     "SSG/UD1_Aula_SSG_23_SYH/Archivos",
-    "SSG/UD1_Aula_SSG_23_SYH/Untitled.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230919144631.png",
-    "README.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230919153149.png",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230919153018.png",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230919150939.png",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230919145138.png",
-    "PVG/Untitled.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918170022.png",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes",
-    "SSG/UD1_Aula_SSG_23_SYH",
-    "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918164421.png",
-    "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918164353.png",
-    "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918164241.png",
-    "EMR",
-    "DAD"
+    "SSG/UD1_Aula_SSG_23_SYH"
   ]
 }
