@@ -20,7 +20,7 @@ Además de reducir los costes de transporte, desde hace años la UE y otros orga
 Dicha organización ya dispone de objetivos a cumplir en el transporte marítimo para el año 2050, por lo que no es solo una necesidad sino obligaciones a cumplir por parte de las empresas del sector para dicho año.
 
 ¿Ya existe demanda?
-Si, las empresas de transporte marítimo ya se encuentran pivotando hacia un modelo de negocio más ecosostenible a través de la revolución de tecnologías verdes, a su vez que tratan de reducir los costes del negocio.
+Si, las empresas de transporte marítimo ya se encuentran pivotando hacia un modelo de negocio más eco sostenible a través de la revolución de tecnologías verdes, a su vez que tratan de reducir los costes del negocio.
 
 c) ¿Es una innovación de producto, de proceso o tecnológica?
 

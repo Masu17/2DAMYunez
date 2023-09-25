@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
+                "file": "EMR/Idea de empresas.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
+                "file": "EMR/Idea de empresas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
+                "file": "EMR/Idea de empresas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md"
+                "file": "EMR/Idea de empresas.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "91bfcd101747a261",
   "lastOpenFiles": [
-    "EMR/Idea de empresas.md",
     "EMR/UT1/Actividades UT1.md",
+    "EMR/Idea de empresas.md",
     "PGL/PatronDao/PATRON DAO.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Hacer Actividad Zoho.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Terminar Actividad Zoho.md",
