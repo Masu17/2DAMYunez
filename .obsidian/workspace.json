@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "d6371ccf56885462",
+            "id": "91bfcd101747a261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EMR/Idea de empresas.md",
+                "file": "EMR/UT1/Actividades UT1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EMR/Idea de empresas.md",
+                "file": "EMR/UT1/Actividades UT1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EMR/Idea de empresas.md",
+                "file": "EMR/UT1/Actividades UT1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EMR/Idea de empresas.md"
+                "file": "EMR/UT1/Actividades UT1.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d6371ccf56885462",
+  "active": "91bfcd101747a261",
   "lastOpenFiles": [
-    "PGL/PatronDao/PATRON DAO.md",
     "EMR/Idea de empresas.md",
+    "EMR/UT1/Actividades UT1.md",
+    "PGL/PatronDao/PATRON DAO.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Hacer Actividad Zoho.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Terminar Actividad Zoho.md",
     "ZCALENDARS/ENTREGAS/2023-10-02 (SSG) - Entega Actividad Zoho.md",
@@ -203,7 +204,6 @@
     "ZCALENDARS/ENTREGAS/2023-09-29 (AED) - Ejercicios de clase.md",
     "ZCALENDARS/DIARIO/2023-09-22 (DIA) - Terminar entrega Foro Interfaces.md",
     "ZCALENDARS/DIARIO/2023-09-22 (DIA) - Terminar tarea 2 SSG..md",
-    "EMR/UT1/Actividades UT1.md",
     "EMR/UT1",
     "ZCALENDARS/ENTREGAS/2023-09-28 (EMR) - Actividades de empresas.md",
     "SSG/Acronimos SSG.md",
