@@ -14,21 +14,8 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "cce774fd3efdead4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PGL/PatronDao/PATRON DAO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PGL/PatronDao/PATRON DAO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PGL/PatronDao/PATRON DAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PGL/PatronDao/PATRON DAO.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,15 +158,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cce774fd3efdead4",
+  "active": "f7994f0772d99135",
   "lastOpenFiles": [
+    "PGL/PatronDao/PATRON DAO.md",
     "EMR/Idea de empresas.md",
     "ZCALENDARS/ENTREGAS/2023-09-26 (DIA) - Hacer Actividad Zoho.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Terminar Actividad Zoho.md",
     "ZCALENDARS/ENTREGAS/2023-10-02 (SSG) - Entega Actividad Zoho.md",
     "ZCALENDARS/EXAMEN/2023-10-05 (EX) - Examen UT1 SSG.md",
     "ZCALENDARS/EXAMEN",
-    "PGL/PatronDao/PATRON DAO.md",
     "README.md",
     "PGL/PatronDao/Pasted image 20230925011834.png",
     "PGL/PatronDao/Pasted image 20230925011134.png",
