@@ -23,8 +23,16 @@ Dicha organización ya dispone de objetivos a cumplir en el transporte marítimo
 Si, las empresas de transporte marítimo ya se encuentran pivotando hacia un modelo de negocio más eco sostenible a través de la revolución de tecnologías verdes, a su vez que tratan de reducir los costes del negocio.
 
 c) ¿Es una innovación de producto, de proceso o tecnológica? A pesar de contar con un soporte tecnológico, la verdadera disrupción la encontramos en cómo se gestiona el proceso de almacenaje naviero.
-¿En qué mejora la situación presente?
 
-¿En que se diferencia de la forma en que lo hacen otros?
+¿En qué mejora la situación presente? 
+
+El transporte naviero es pilar fundamental dentro del transporte de mercancías a nivel mundial, en un mundo globalizado, hemos podido ver como ha habido escasez de ciertos productos. Además, ante la actual subida de precios debido a los precios del petróleo y de las propias limitaciones del sector (Número de vehículos que pueden ser empleados para el transporte), nuestra solución mejora la optimización de los recursos ya existentes sin la necesidad de crear nueva infraestructura.
+
+¿En que se diferencia de la forma en que lo hacen otros? 
+
+Nosotros nos diferenciamos en la manera en la que abordamos estas necesidades, participando de manera activa en la gestión de contenedores, al contrario de otras empresas de la competencia que lo abordan de manera pasiva, tal y como vimos anteriormente.
+
+Con Freightos, es el propio cliente quien debe comparar el mejor precio y realizar de manera activa todo el procedimiento, pudiendo pagar de más por espacio que no está empleando.
 
 ¿Vuestro producto o servicio es el resultado de un nuevo invento o de la incorporación de nuevas tecnologías al proceso?
+
