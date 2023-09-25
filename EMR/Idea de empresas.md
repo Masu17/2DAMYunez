@@ -22,8 +22,7 @@ Dicha organización ya dispone de objetivos a cumplir en el transporte marítimo
 ¿Ya existe demanda?
 Si, las empresas de transporte marítimo ya se encuentran pivotando hacia un modelo de negocio más eco sostenible a través de la revolución de tecnologías verdes, a su vez que tratan de reducir los costes del negocio.
 
-c) ¿Es una innovación de producto, de proceso o tecnológica?
-
+c) ¿Es una innovación de producto, de proceso o tecnológica? A pesar de contar con un soporte tecnológico, la verdadera disrupción la encontramos en cómo se gestiona el proceso de almacenaje naviero.
 ¿En qué mejora la situación presente?
 
 ¿En que se diferencia de la forma en que lo hacen otros?
