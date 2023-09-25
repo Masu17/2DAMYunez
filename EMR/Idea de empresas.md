@@ -36,3 +36,4 @@ Con Freightos, es el propio cliente quien debe comparar el mejor precio y realiz
 
 ¿Vuestro producto o servicio es el resultado de un nuevo invento o de la incorporación de nuevas tecnologías al proceso?
 
+Nuestro servicio se trata de una nueva forma de gestión, por lo que no se trata de ningún invento, sino de una forma diferente de la gestión de la carga de contenedores para aprovechar al máximo la carga total de los buques.
