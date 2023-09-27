@@ -4,27 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "56af9cf75faffb08",
+        "id": "5257e080115177f3",
         "type": "tabs",
         "children": [
           {
-            "id": "f7994f0772d99135",
+            "id": "30037a3b05ce9ebc",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "4863f3cbb9d2cd93",
+            "id": "0f29f716789dba5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EMR/UT1/Actividades UT1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EMR/UT1/Actividades UT1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,15 +167,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4863f3cbb9d2cd93",
+  "active": "0f29f716789dba5d",
   "lastOpenFiles": [
+    "EMR/UT1/Actividades UT1.md",
     "ZCALENDARS/DIARIO/2023-09-27 (DIA) - Escribir a mano EMR.md",
     "EMR/Idea de empresas.md",
     "PGL/PatronDao/PATRON DAO.md",
-    "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Actividad de Interfaces.md",
-    "EMR/UT1/Actividades UT1.md",
+    "ZCALENDARS/DIARIO/2023-09-27 (DIA) - Actividad de Interfaces.md",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Hacer Actividad Zoho.md",
-    "ZCALENDARS/DIARIO/2023-09-27 (DIA) - Terminar APP.md",
+    "ZCALENDARS/DIARIO/2023-09-28 (DIA) - Terminar APP.md",
     "ZCALENDARS/ENTREGAS/2023-10-02 (SSG) - Entega Actividad Zoho.md",
     "ZCALENDARS/EXAMEN/2023-10-05 (EX) - Examen UT1 SSG.md",
     "ZCALENDARS/EXAMEN",
