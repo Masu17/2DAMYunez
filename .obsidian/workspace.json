@@ -14,19 +14,8 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "4258768f04c0fa41",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PGL/PatronDao/Pasted image 20230925011834.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PGL/PatronDao/Pasted image 20230925011834.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PGL/PatronDao/Pasted image 20230925011834.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PGL/PatronDao/Pasted image 20230925011834.png"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +158,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4258768f04c0fa41",
+  "active": "0f29f716789dba5d",
   "lastOpenFiles": [
+    "ZCALENDARS/ENTREGAS/2023-10-05 (SSG) - Entega Actividad Zoho.md",
+    "ZCALENDARS/ENTREGAS/2023-10-03 (SSG) - Entega Actividad Zoho.md",
+    "PGL/PatronDao/Pasted image 20230925011834.png",
     "EMR/UT1/Actividades UT1.md",
     "ZCALENDARS/DIARIO/2023-09-27 (DIA) - Escribir a mano EMR.md",
     "EMR/Idea de empresas.md",
@@ -186,7 +174,6 @@
     "ZCALENDARS/EXAMEN/2023-10-05 (EX) - Examen UT1 SSG.md",
     "ZCALENDARS/EXAMEN",
     "README.md",
-    "PGL/PatronDao/Pasted image 20230925011834.png",
     "PGL/PatronDao/Pasted image 20230925011134.png",
     "PGL/PatronDao/Untitled.canvas",
     "PGL/PatronDao",
@@ -210,8 +197,6 @@
     "SSG/UD1_Aula_SSG_23_SYH/Introdución EMR'S.md",
     "SSG/UD1_Aula_SSG_23_SYH/Imagenes/Pasted image 20230918162127.png",
     "ZCALENDARS/DIARIO/2023-09-26 (DIA) - Terminar App.md",
-    "ZCALENDARS/DIARIO/2023-09-24 (DIA)-Practica procesadores.md",
-    "ZCALENDARS/DIARIO/2023-09-21 (DIA)-Practica Centros de Mando.md",
     "ZCALENDARS/DIARIO",
     "ZCALENDARS/EXPANSION",
     "ZCALENDARS/ENTREGAS",
