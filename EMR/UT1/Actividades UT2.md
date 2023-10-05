@@ -1,0 +1,1 @@
+es su forma de decir que estudiemos para el examen XD pero le da cosita 
